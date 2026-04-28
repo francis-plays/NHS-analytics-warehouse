@@ -1,0 +1,20 @@
+# Credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+*.csv
+*.json
+
+# IDE
+.DS_Store
+.vscode/
+
+# dbt
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
